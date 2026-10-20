@@ -2,7 +2,7 @@
 
 <img src="banner.svg" width="100%" alt="Shashank Rai - Developer Enthusiast" />
 
-![Profile views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile+views&color=39d353&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=shashankrai-dev&label=Profile+views&color=39d353&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ID)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
