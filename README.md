@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="./banner.svg" width="100%" alt="Shashank Rai | Developer" />
+  <img src="./banner (3).svg" width="100%" alt="Shashank Rai | Developer" />
 
   <h3>Software Developer in Progress</h3>
 
